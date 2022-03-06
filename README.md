@@ -7,7 +7,7 @@
 2. Cerveja - 1200 ml por Pessoa + 6 horas - 2000 ml.
 3. Refrigerante - 2000 ml por pessoa + 6 horas 4000ml.
 
-Obs¹: As Crianças em Relação a Carne Levam Metade.
-Obs²: Só as Crianças Levam Refrigerante da Mesma Forma que Só Adultos Levam Cerveja.
-Obs³: Os Valores Estão Todos Arredondados de Acordo com a Biblioteca Math com a Propriedade round.
+Obs¹: As Crianças em Relação a Carne Levam Metade.<br />
+Obs²: Só as Crianças Levam Refrigerante da Mesma Forma que Só Adultos Levam Cerveja.<br />
+Obs³: Os Valores Estão Todos Arredondados de Acordo com a Biblioteca Math com a Propriedade round.<br />
 
